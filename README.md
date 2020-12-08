@@ -11,7 +11,7 @@ Fique a vontade para usar Bootstrap, materialize ou criar o seu próprio tema.
 Fazer listagem de filmes com base na busca e ao clicar em um título deve ser mostrado os detalhes.
 Para parte de detalhes não precisam ser mostrados exatamente tudo o que vem de informções, só informações básicas a gente consegue avaliar. ;)
 
-Você pode fazer um merge request ou mandar o link do seu repositório para nós.
+Você pode fazer um merge do fork do projeto.
 
 Abaixo dois exemplos de como ficaria.
 
